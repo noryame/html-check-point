@@ -1,0 +1,9 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+#hello{
+    background-color: aqua;
+    display: flex;
+    justify-content:center;
+}
